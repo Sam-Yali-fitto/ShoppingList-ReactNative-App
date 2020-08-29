@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+#Project Directory:
+/rn-client/.DS_Store
+/rn-server/.DS_Store
+.idea
+
+
+#rn-client directory:
+/rn-client/.expo
+/rn-client/.expo-shared
+/rn-client/.idea
+/rn-client/node_modules/
+/rn-client/RN-RAMP_UP.code-workspace
+
+#rn-server directory:
+/rn-server/node_modules/
